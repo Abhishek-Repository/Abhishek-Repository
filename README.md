@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=86c26b&height=200&section=header&text=⭐Your%20Name⭐&fontSize=50&fontAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=86c26b&height=200&section=header&text=Abhishek Biswas&fontSize=50&fontAlign=50&fontColor=ffffff" />
 </p>
 
 <div align="center" style="margin-top: -30px; margin-bottom: -30px;">
