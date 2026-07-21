@@ -1,74 +1,226 @@
-<!-- GitHub Profile README -->
+<!-- ========================================================= -->
+<!--                  ABHISHEK BISWAS README                   -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=86c26b&height=200&section=header&text=Abhishek%20Biswas&fontSize=50&fontAlign=50&fontColor=ffffff" />
+  <img src="assets/banner.gif" width="100%" alt="Banner"/>
 </p>
 
-<div align="center" style="margin-top: -30px; margin-bottom: -30px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=86c26b&center=true&width=500&vCenter=true&repeat=true&lines=⭐Your%20Title%20Here⭐" alt="Typing Animation" />
-</div>
+<h1 align="center">Hi 👋 I'm Abhishek Biswas</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=86c26b&center=true&width=500&vCenter=true&repeat=true&lines=⭐Your%20Specializations⭐" alt="Typing Animation" />
-</div>
+<p align="center">
+Software Engineer • AI Engineer • Building Enterprise AI Products
+</p>
 
-<div align="center">
-  <a href="⭐https://linkedin.com/in/your-linkedin⭐"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
-  <a href="⭐https://github.com/your-github⭐"><img src="https://img.icons8.com/fluency/48/github.png" width="40"/></a>
-  <a href="⭐https://huggingface.co/your-hf⭐"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/></a>
-  <a href="mailto:⭐your-email⭐"><img src="https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000" width="40"/></a>
-  <a href="⭐https://youtube.com/@yourchannel⭐"><img src="https://img.icons8.com/?size=100&id=qLVB1tIe9Ts9&format=png&color=000000" width="40"/></a>
-  <a href="⭐https://wa.me/yourwhatsapplink⭐"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40"/></a>
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3200&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+Bank+of+America;Building+Enterprise+AI+Products;LLMs+%7C+AI+Agents+%7C+Healthcare+AI;React+%7C+Python+%7C+FastAPI+%7C+OpenShift;Always+Learning.+Always+Building." />
+</p>
 
----
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
+</a>
 
-## 📌 About Me
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
 
-- 🎓 **⭐Your Degree / University⭐**  
-- 🤖 **⭐Your Role/Interest⭐**  
-- 🔭 Skilled in ⭐Relevant Skills⭐
-- 📄 [View my CV](⭐https://your-cv-link⭐)
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+</a>
 
----
+<a href="https://huggingface.co/YOUR_USERNAME">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="42"/>
+</a>
 
-## 🛠️ Technical Stack
-
-### 📚 Fundamentals
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-111111?style=flat&logo=oop&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-00599C?style=flat&logo=data-structures&logoColor=white)
-
-### 🧠 NLP/LLMs
-
-![Transformers](https://img.shields.io/badge/Transformers-FFD600?style=flat&logo=transformers&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-0e0d0e?style=flat&logo=huggingface&logoColor=FFD21E)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-242020?style=flat&logo=scikit-learn&logoColor=white)
-
-### 🌐 Web Development
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+</p>
 
 ---
 
-## 🚀 Notable Projects
+# 🧠 About Me
 
-### 🔷 ⭐Project 1 Name⭐  
-> **Tech Stack:** ⭐Tech Used⭐
+```python
+class AbhishekBiswas:
 
-- ⭐Short feature/bullet point 1⭐  
-- ⭐Short feature/bullet point 2⭐
+    role = "Software Engineer"
 
-### 🔷 ⭐Project 2 Name⭐  
-> **Tech Stack:** ⭐Tech Used⭐
+    company = "Bank of America"
 
-- ⭐Short feature/bullet point 1⭐  
-- ⭐Short feature/bullet point 2⭐
+    education = [
+        "M.Tech AI — IIT Kharagpur",
+        "B.Tech CSE — MAKAUT"
+    ]
+
+    interests = [
+        "Enterprise AI",
+        "LLMs",
+        "AI Agents",
+        "Healthcare AI",
+        "Full Stack Development"
+    ]
+
+    tech = [
+        "React",
+        "Python",
+        "FastAPI",
+        "FastMCP",
+        "MongoDB",
+        "OpenShift"
+    ]
+
+    motto = "Build AI products that solve real problems."
+```
 
 ---
 
+# 🚀 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Building
+
+- Enterprise AI Products
+- LLM Powered Applications
+- AI Agent Systems
+- Healthcare AI Solutions
+- Full Stack Applications
+
+</td>
+
+<td width="50%">
+
+### 🌱 Learning
+
+- Agentic AI
+- Distributed Systems
+- System Design
+- Product Engineering
+- AI Infrastructure
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌌 My Journey
+
+<p align="center">
+<img src="assets/journey.png" width="100%" alt="Journey Timeline"/>
+</p>
+
+---
+
+# 💼 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🩺 AI Medical Scribe | Converts doctor-patient conversations into structured clinical notes using AI | Whisper • LLM • FastAPI • React |
+| 🤖 AI Orchestrated UI Platform | Natural language powered dashboard generation using AI agents | LangGraph • FastAPI • React |
+| 🧠 Psychiatric Diagnosis | Interpretable Transformer-based NLP for clinical diagnosis | RoBERTa • PyTorch |
+| 🎨 Gesture Based AI Virtual Painter | Real-time gesture recognition for digital drawing | OpenCV • MediaPipe |
+| 🧬 Biomarker Identification | Feature selection using MI-COVIDOA optimization | Python • Scikit-learn |
+
+---
+
+# ⚙️ Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
+</p>
+
+### 🌐 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+</p>
+
+### ⚡ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb" />
+</p>
+
+### 🤖 AI / ML
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastMCP-121212?style=for-the-badge"/>
+
+</p>
+
+### ☁️ Platform & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,docker,linux" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenShift-E00?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build AI products used in production
+- ⭐ Contribute to Open Source
+- 📝 Write technical blogs
+- 🌍 Launch an AI SaaS
+- 🩺 Advance Healthcare AI
+
+---
+
+# 💭 Philosophy
+
+> **"Build AI that people actually use."**
+
+---
+
+<p align="center">
+
+<img src="assets/footer.gif" width="100%"/>
+
+</p>
+
+<h3 align="center">
+
+Thanks for visiting ❤️
+
+</h3>
