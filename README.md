@@ -1,36 +1,41 @@
 <!-- ========================================================= -->
-<!--                  ABHISHEK BISWAS README                   -->
+<!--                     ABHISHEK BISWAS                       -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Banner"/>
+  <img src="assets/banner.gif" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">Hi 👋 I'm Abhishek Biswas</h1>
+<h1 align="center">
+Hi 👋 I'm Abhishek Biswas
+</h1>
 
-<p align="center">
+<h3 align="center">
 Software Engineer • AI Engineer • Building Enterprise AI Products
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=3200&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+Bank+of+America;Building+Enterprise+AI+Products;LLMs+%7C+AI+Agents+%7C+Healthcare+AI;React+%7C+Python+%7C+FastAPI+%7C+OpenShift;Always+Learning.+Always+Building." />
+
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3200&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+Bank+of+America;Building+Enterprise+AI+Products;LLMs+%7C+AI+Agents+%7C+Healthcare+AI;React+%7C+Python+%7C+FastAPI+%7C+OpenShift;Always+Learning.+Always+Building." />
-</p>
 
-<p align="center">
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
+<img src="https://skillicons.dev/icons?i=github" height="42">
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="42">
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="42">
 </a>
 
 <a href="https://huggingface.co/YOUR_USERNAME">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="42"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="42">
 </a>
 
 </p>
@@ -47,8 +52,8 @@ class AbhishekBiswas:
     company = "Bank of America"
 
     education = [
-        "M.Tech AI — IIT Kharagpur",
-        "B.Tech CSE — MAKAUT"
+        "M.Tech Artificial Intelligence @ IIT Kharagpur",
+        "B.Tech Computer Science & Engineering @ MAKAUT"
     ]
 
     interests = [
@@ -56,10 +61,10 @@ class AbhishekBiswas:
         "LLMs",
         "AI Agents",
         "Healthcare AI",
-        "Full Stack Development"
+        "Full Stack Engineering"
     ]
 
-    tech = [
+    stack = [
         "React",
         "Python",
         "FastAPI",
@@ -68,112 +73,96 @@ class AbhishekBiswas:
         "OpenShift"
     ]
 
-    motto = "Build AI products that solve real problems."
+    motto = "Build AI products that solve real-world problems."
 ```
-
----
-
-# 🚀 Current Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 Building
-
-- Enterprise AI Products
-- LLM Powered Applications
-- AI Agent Systems
-- Healthcare AI Solutions
-- Full Stack Applications
-
-</td>
-
-<td width="50%">
-
-### 🌱 Learning
-
-- Agentic AI
-- Distributed Systems
-- System Design
-- Product Engineering
-- AI Infrastructure
-
-</td>
-
-</tr>
-</table>
 
 ---
 
 # 🌌 My Journey
 
 <p align="center">
-<img src="assets/journey.png" width="100%" alt="Journey Timeline"/>
+
+<img src="assets/journey.png" width="100%">
+
 </p>
 
 ---
 
-# 💼 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🩺 AI Medical Scribe | Converts doctor-patient conversations into structured clinical notes using AI | Whisper • LLM • FastAPI • React |
-| 🤖 AI Orchestrated UI Platform | Natural language powered dashboard generation using AI agents | LangGraph • FastAPI • React |
-| 🧠 Psychiatric Diagnosis | Interpretable Transformer-based NLP for clinical diagnosis | RoBERTa • PyTorch |
-| 🎨 Gesture Based AI Virtual Painter | Real-time gesture recognition for digital drawing | OpenCV • MediaPipe |
-| 🧬 Biomarker Identification | Feature selection using MI-COVIDOA optimization | Python • Scikit-learn |
+<p align="center">
+
+<img src="assets/projects.png" width="100%">
+
+</p>
 
 ---
 
 # ⚙️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts"/>
+
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+
+<img src="https://skillicons.dev/icons?i=react,html,css,vite"/>
+
 </p>
 
-### ⚡ Backend
+### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb" />
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb"/>
+
 </p>
 
-### 🤖 AI / ML
+### AI / ML
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Transformers-121212?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/HuggingFace-121212?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-121212?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/FastMCP-121212?style=for-the-badge"/>
-
-</p>
-
-### ☁️ Platform & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,docker,linux" />
-</p>
-
-<p align="center">
 
 <img src="https://img.shields.io/badge/OpenShift-E00?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
 
 </p>
 
+### Dev Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode"/>
+
+</p>
+
 ---
 
-# 📊 GitHub Analytics
+# ❤️ Beyond Code
+
+<p align="center">
+
+<img src="assets/beyond-code.png" width="100%">
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -197,25 +186,25 @@ class AbhishekBiswas:
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Focus
 
-- 🚀 Build AI products used in production
-- ⭐ Contribute to Open Source
-- 📝 Write technical blogs
-- 🌍 Launch an AI SaaS
-- 🩺 Advance Healthcare AI
+- 🤖 Building Enterprise AI Products
+- 🧠 Multi-Agent Systems
+- 💬 LLM Powered Applications
+- 🩺 Healthcare AI
+- ⚛️ Full Stack Engineering
 
 ---
 
 # 💭 Philosophy
 
-> **"Build AI that people actually use."**
+> *"Build AI that people actually use."*
 
 ---
 
 <p align="center">
 
-<img src="assets/footer.gif" width="100%"/>
+<img src="assets/footer.gif" width="100%">
 
 </p>
 
