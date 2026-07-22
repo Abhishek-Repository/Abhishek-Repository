@@ -128,7 +128,7 @@ class AbhishekBiswas:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://images.seeklogo.com/logo-png/67/1/langchain-logo-png_seeklogo-675957.png"/>
 
 <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
 
