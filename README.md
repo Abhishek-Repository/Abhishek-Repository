@@ -128,7 +128,7 @@ class AbhishekBiswas:
 
 <p align="center">
 
-<img src="ttps://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
 
